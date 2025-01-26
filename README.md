@@ -1,1 +1,2 @@
-Hola mundo 001
+Proyecto Lab CVDS 
+"README INDIVIDUAL" - Sebastian Beltran 
