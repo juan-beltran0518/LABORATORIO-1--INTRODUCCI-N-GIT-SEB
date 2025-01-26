@@ -4,24 +4,26 @@ Hola mundo (Owner) error - Sebastian Beltran
 Hola mundo (Owner) error conflicto 1 - Salomon
 >>>>>>> e9b4b031ac780a82d0315674731044a2b70bd354
 
-Prueba de conflicto Intellij 
+"Prueba de conflicto Intellij" 
 
 # LABORATORIO 1- INTRODUCCIÓN GIT
 ESCUELA COLOMBIANA DE INGENIERÍA - CICLOS DE VIDA DE DESARROLLO DE SOFTWARE
 
-## INTEGRANTES
+# INTEGRANTES
 - Juan Sebastian Beltran Rodriguez 
 - David Salomon Baena Rubio
 
-## RESPUESTAS  
+# RESPUESTAS  
 ## PARTE I (Trabajo Individual). 
 
 1.	Crea un repositorio localmente.
-    [![Imagen1.jpg](https://i.postimg.cc/MKHj12tt/Imagen1.jpg)](https://postimg.cc/Yhc9wP5m)
+
+- [![Imagen1.jpg](https://i.postimg.cc/MKHj12tt/Imagen1.jpg)](https://postimg.cc/Yhc9wP5m)
 
 
 2.	Agrega un archivo de ejemplo al repositorio, el **README.md** puede ser una gran opción.
-    [![Imagen2.jpg](https://i.postimg.cc/htFPvHYX/Imagen2.jpg)](https://postimg.cc/qzLdZZ4r)
+
+- [![Imagen2.jpg](https://i.postimg.cc/htFPvHYX/Imagen2.jpg)](https://postimg.cc/qzLdZZ4r)
 
 
 3.	Averigua para qué sirve y como se usan estos comandos **git add** y **git commit -m “mensaje”**
