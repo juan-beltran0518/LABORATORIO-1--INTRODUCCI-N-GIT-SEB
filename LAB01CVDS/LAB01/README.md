@@ -1,10 +1,11 @@
-<<<<<<< HEAD
-Hola mundo (Owner) error - Sebastian Beltran 
+# CONFLICTOS
+<<<<<<< HEAD Hola mundo (Owner) error conflicto remaster - Sebastian Beltran 
+
 =======
+"Prueba de conflicto Intellij" 
 Hola mundo (Owner) error conflicto 1 - Salomon
 >>>>>>> e9b4b031ac780a82d0315674731044a2b70bd354
 
-"Prueba de conflicto Intellij" 
 
 # LABORATORIO 1- INTRODUCCIÓN GIT
 ESCUELA COLOMBIANA DE INGENIERÍA - CICLOS DE VIDA DE DESARROLLO DE SOFTWARE
